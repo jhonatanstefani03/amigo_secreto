@@ -21,5 +21,6 @@ A ideia é didática, objetiva e focada em interações básicas com elementos H
 - Evitar cadastros duplicados.
 - Sortear um único nome aleatoriamente da lista cadastrada.
 - Mostrar o nome sorteado diretamente na página (ou via `console.log`).
+- <img width="1347" height="618" alt="amigosecretodigitarnome3" src="https://github.com/user-attachments/assets/01764e66-ef2f-418a-9e13-ce21d26e15ec" />
 <img width="1342" height="621" alt="clicarsortear" src="https://github.com/user-attachments/assets/2e03b113-baa7-430d-9297-2af57f92dfa0" />
-<img width="1347" height="618" alt="amigosecretodigitarnome3" src="https://github.com/user-attachments/assets/01764e66-ef2f-418a-9e13-ce21d26e15ec" />
+
